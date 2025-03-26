@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="coin-control-backend">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backend/coin-control-backend.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
