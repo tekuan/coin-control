@@ -1,4 +1,5 @@
 Estrutura do projeto
+
 📂 backend (Java + Spring Boot)
 - 📂_**src/main/java/com/coin-control**_
   - 📂 **controllers** → Lida com as requisições HTTP
